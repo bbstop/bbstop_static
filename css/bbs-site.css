@@ -1,0 +1,52 @@
+#headinfo{
+    text-align: right;
+}
+
+.post li{
+    list-style: none ;
+}
+.dl-horizontal {
+    display: inline-table;
+}
+.dl-horizontal:hover {
+    color: #ffffff;
+    background: #49515a;
+}
+
+.dl-horizontal {
+    font-size: 1.2em;
+}
+
+.dl-horizontal img{
+    max-height: 120px;
+    max-width: 120px;
+    border: 0 none;
+    vertical-align: middle;
+}
+
+.ad_1{
+    line-height: 0.1 ;
+}
+.ad_2{
+    line-height: 0.1 ;
+}
+.ad_3{
+    line-height: 0.1 ;
+}
+
+.pluginConnectTextDark {
+    color: #808080;
+}
+.content{
+    position:relative;
+    padding: 75px;
+    margin: 15px;
+}
+.container2{
+    height: 70px;
+}
+
+.fbpage{
+    padding: 0 !important;
+    padding-right: 0;
+}
