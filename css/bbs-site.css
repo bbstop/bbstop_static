@@ -39,7 +39,8 @@
 }
 .content{
     position:relative;
-    padding: 75px;
+    /*
+    padding: 75px;*/
     margin: 15px;
 }
 .container2{
