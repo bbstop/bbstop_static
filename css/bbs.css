@@ -109,7 +109,7 @@
 
 #main-content {
 	position: relative;
-	white-space: pre;
+	/*white-space: pre;*/
 }
 
 a:link {
